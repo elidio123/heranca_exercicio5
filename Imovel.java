@@ -1,5 +1,5 @@
 public class Imovel{
-
+    //atributos endereco e atributo
     private String endereco;
     private double preco;
 
